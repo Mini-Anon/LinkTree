@@ -22,8 +22,7 @@ Built with clean design and easy-to-edit structure.
 
 ## 📸 Preview
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/811bfd49-2455-4329-94c9-174e838cd35d" />
-
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/6d2f631e-ea02-47bf-92cc-3dd1bd2bd0aa" />
 
 ## 🌟 Deployment
 
