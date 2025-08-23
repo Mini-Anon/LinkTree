@@ -12,31 +12,27 @@ Built with clean design and easy-to-edit structure.
 ## 🛠️ Setup
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/simple-linktree.git
-Open the project folder
+   git clone https://github.com/ManviGuleria/LinkTree.git```
+2. Open the project folder
+   ```
+   cd LinkTree
+   ```
+3. Edit `index.html` to add your links
+4. Deploy using GitHub Pages, Vercel, or Netlify
 
-cd simple-linktree
-
-
-Edit index.html (or config file) to add your links
-
-Deploy using GitHub Pages, Vercel, or Netlify
-
-📸 Preview
+## 📸 Preview
 
 <!-- Replace with your screenshot if you have one -->
 
-🌟 Deployment
+## 🌟 Deployment
 
 Easily host it for free on:
 
-Vercel
+- Vercel
+- Netlify
+- GitHub Pages
 
-Netlify
-
-GitHub Pages
-
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 Feel free to fork and customize! 🎉
