@@ -34,5 +34,5 @@ Easily host it for free on:
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
 Feel free to fork and customize! 🎉
