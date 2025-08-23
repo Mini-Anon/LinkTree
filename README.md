@@ -12,7 +12,8 @@ Built with clean design and easy-to-edit structure.
 ## 🛠️ Setup
 1. Clone this repository  
    ```bash
-   git clone https://github.com/ManviGuleria/LinkTree.git```
+   git clone https://github.com/ManviGuleria/LinkTree.git
+   ```
 2. Open the project folder
    ```
    cd LinkTree
